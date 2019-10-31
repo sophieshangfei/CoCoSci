@@ -1,0 +1,4 @@
+key_press,rt,stimulus,time_elapsed,trial_type,pid
+89.0,4195.0,static/images/robot_land/population.png,8834,single-stim,40
+89.0,982.0,static/images/robot_land/population.png,10727,single-stim,41
+89.0,996.0,static/images/population.png,3023,single-stim,42

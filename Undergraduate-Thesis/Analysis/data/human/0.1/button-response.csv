@@ -1,0 +1,51 @@
+button_pressed,rt,stimulus,time_elapsed,trial_type,pid
+0.0,6313.0,"
+				<h1>Instructions Complete</h1>
+
+				You're now ready to begin seeing robots and predicting where they are from.
+				You will see 18 robots in total.
+				Remember, you earn one cent for each correct prediction. Good luck!
+			",69641,button-response,2
+0.0,5930.0,"
+				<strong style='color: green'>Correct!</strong><br>
+				The number was <b>2987684</b>.<br>
+				Please keep the number in memory because we will ask you to recall it again.
+			",140973,button-response,2
+0.0,1871.0,[u'<p>Thanks so much for participating in this research.</p>Your final bonus is $0.08'],229040,button-response,2
+0.0,6017.0,"
+				<h1>Instructions Complete</h1>
+
+				You're now ready to begin seeing robots and predicting where they are from.
+				You will see 18 robots in total.
+				Remember, you earn one cent for each correct prediction. Good luck!
+			",31044,button-response,4
+0.0,1594.0,[u'<p>Thanks so much for participating in this research.</p>Your final bonus is $0.11'],131930,button-response,4
+0.0,6847.0,"
+				<h1>Instructions Complete</h1>
+
+				You're now ready to begin seeing robots and predicting where they are from.
+				You will see 18 robots in total.
+				Remember, you earn one cent for each correct prediction. Good luck!
+			",254293,button-response,0
+0.0,2515.0,"
+				<strong style='color: green'>Correct!</strong><br>
+				The number was <b>9155215</b>.<br>
+				Please keep the number in memory because we will ask you to recall it again.
+			",362359,button-response,0
+0.0,1494.0,[u'<p>Thanks so much for participating in this research.</p>Your final bonus is $0.04'],445776,button-response,0
+0.0,2967.0,"
+				<h1>Instructions Complete</h1>
+
+				You're now ready to begin seeing robots and predicting where they are from.
+				You will see 18 robots in total.
+				Remember, you earn one cent for each correct prediction. Good luck!
+			",32366,button-response,1
+0.0,1156.0,[u'<p>Thanks so much for participating in this research.</p>Your final bonus is $0.11'],133049,button-response,1
+0.0,844.0,"
+				<h1>Instructions Complete</h1>
+
+				You're now ready to begin seeing robots and predicting where they are from.
+				You will see 18 robots in total.
+				Remember, you earn one cent for each correct prediction. Good luck!
+			",7254,button-response,3
+0.0,1037.0,[u'<p>Thanks so much for participating in this research.</p>Your final bonus is $0.10'],127539,button-response,3

@@ -1,0 +1,6 @@
+rt,time_elapsed,trial_type,view_history,pid
+26021.0,26021,instructions,"[{""page_index"":0,""viewing_time"":7312},{""page_index"":1,""viewing_time"":11771},{""page_index"":2,""viewing_time"":6937}]",2
+24021.0,24022,instructions,"[{""page_index"":0,""viewing_time"":1200},{""page_index"":1,""viewing_time"":15556},{""page_index"":2,""viewing_time"":7264}]",4
+196421.0,196423,instructions,"[{""page_index"":0,""viewing_time"":142129},{""page_index"":1,""viewing_time"":10968},{""page_index"":0,""viewing_time"":22509},{""page_index"":1,""viewing_time"":3963},{""page_index"":2,""viewing_time"":16850}]",0
+28396.0,28397,instructions,"[{""page_index"":0,""viewing_time"":13606},{""page_index"":1,""viewing_time"":11055},{""page_index"":2,""viewing_time"":3735}]",1
+5397.0,5398,instructions,"[{""page_index"":0,""viewing_time"":1238},{""page_index"":1,""viewing_time"":2503},{""page_index"":2,""viewing_time"":1656}]",3
